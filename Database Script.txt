@@ -1,0 +1,67 @@
+#Create Table
+
+CREATE TABLE Employees(
+	[Id] [int] IDENTITY NOT NULL,
+	[name] [varchar](50) NOT NULL,
+	[gender] [varchar](50) NOT NULL,
+	[age] [int] NOT NULL,
+	[designation] [varchar](50) NOT NULL,
+	[city] [varchar](50) NOT NULL)
+
+
+#Store Procedures
+
+#Add Employee
+
+GO
+CREATE PROCEDURE [dbo].[spAddEmployee](
+@name varchar(50),
+@gender varchar(50),
+@age int,
+@designation varchar(50),
+@city varchar(50)
+) 
+as 
+begin
+	INSERT INTO EMPLOYEES(name,gender,age,designation,city)
+		VALUES(@name,@gender,@age,@designation,@city)
+END
+
+
+#Delete Employee
+
+GO
+CREATE PROCEDURE [dbo].[spDeleteEmployee](
+@Id int)
+as
+BEGIN
+	DELETE from Employees where Id=@Id
+END
+
+
+#Get All Employee
+
+GO
+CREATE PROCEDURE [dbo].[spGetAllEmployee]
+as
+begin
+	select * from Employees ORDER BY ID
+END
+
+
+#Update Employee
+
+GO
+CREATE PROCEDURE [dbo].[spUpdateEmployee](
+@Id int,
+@name varchar(50),
+@gender varchar(50),
+@age int,
+@designation varchar(50),
+@city varchar(50))
+as 
+begin
+	UPDATE EMPLOYEES SET name=@name, gender=@gender,
+	age=@age,designation=@designation,city=@city 
+	where Id=@Id
+EN
