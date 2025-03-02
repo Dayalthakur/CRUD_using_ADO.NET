@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\views\\home\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:views\\home\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|c:\\users\\hp\\source\\repos\\crud_ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A08EF-CAC8-4796-87CE-03BE173DEF0B}|CRUD_ADO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:26:31.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\AddUser.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddUser.cshtml",
+              "ViewState": "AgIAAAcAAACAzczMzMw0wBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T11:47:46.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAA2MzMzMwUwDsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T09:20:42.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEQAAAAAzczMzMwywFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:12:17.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\EmployeeDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "EmployeeDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\EmployeeDataAccessLayer.cs",
+              "RelativeToolTip": "EmployeeDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:49:48.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Models\\Employees.cs",
+              "RelativeToolTip": "Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:17:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "ConnectionString.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\ConnectionString.cs",
+              "RelativeToolTip": "ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:09:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAACkAAAAA0szMzMwkwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T13:53:26.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAABsAAABAMzMzMzMvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:06:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\CRUD_ADO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:00:04.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
